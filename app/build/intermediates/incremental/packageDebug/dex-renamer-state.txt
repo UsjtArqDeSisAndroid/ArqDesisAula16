@@ -1,0 +1,7 @@
+#Sat Nov 05 21:45:41 BRST 2016
+base.0=G\:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1083f634cf76742b67baa5e7518a4b418a441e04
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52b105b852bd60be134ac8652322ed0e77446227\\classes.dex
+base.1=G\:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52b105b852bd60be134ac8652322ed0e77446227
+file.0=G\:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1083f634cf76742b67baa5e7518a4b418a441e04\\classes.dex

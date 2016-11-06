@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="583add8ca69a24b5a2694fb015299152bdc65426">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52b105b852bd60be134ac8652322ed0e77446227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_53a64221b1d34e3b41e5660746764445b570d22d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54f2015ca814594fa516f89364f6a5e40e50df37">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1083f634cf76742b67baa5e7518a4b418a441e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fb322d064262c896b2204e8a36f3b0c699b757c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_3bc7eaf9d5efb7f4521269edb2d6c5edf0a661bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_58d493535e7908c5f60ec3ef83be7aed8c71cfb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_22734b1ed6b48769e9bc35b73b807a8f2cbc0b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d359de82f2ad5e1ff1f50f2eae89334690e45681\classes.dex" />
+    </item>
+
+</items>
